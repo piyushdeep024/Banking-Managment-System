@@ -394,15 +394,20 @@ END FUNCTION
 
 ## 📸 Screenshots
 
-**Note:** Screenshots should be added here showing:
+Screenshots are added here showing:
 - PIN entry screen
 - Menu display
 - Deposit transaction
 - Withdrawal transaction
 - Balance display
 - Exit message
+![22](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20185822.png)
+![233](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20185851.png)
+![233](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20190018.png)
+![233](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20190140.png)
+![233](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20190311.png)
+![233](https://github.com/piyushdeep024/Banking-Managment-System/blob/main/screenshots/Screenshot%202025-11-23%20190338.png)
 
-(Please upload screenshots for inclusion in this documentation)
 
 ---
 
